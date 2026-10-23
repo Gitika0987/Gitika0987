@@ -1,8 +1,8 @@
-# Hi, I'm Gitika Barigela
+# Hi, I am Gitika Barigela
 
 **Information Technology Undergraduate | Class of 2027**
 
-I'm an IT undergraduate interested in software development, database-driven applications, and AI-powered solutions. I enjoy learning through hands-on projects and continuously improving my programming and problem-solving skills.
+I am an IT undergraduate interested in software development, database-driven applications, and AI-powered solutions. I enjoy learning through hands-on projects and continuously improving my programming and problem-solving skills.
 
 ## About Me
 
